@@ -1,0 +1,10 @@
+names:
+- hardhat
+- no_hardhat
+- vest
+- no_vest
+nc: 4
+path: D:\Project\BuildaThon-AI\ai\data
+test: test/images
+train: train/images
+val: valid/images

@@ -1,0 +1,11 @@
+ultralytics==8.2.30
+torch==2.2.2
+pydantic==2.6.4
+fastapi==0.111.0
+pytest==8.2.1
+pillow==10.3.0
+opencv-python-headless==4.8.0.74
+roboflow==1.1.13
+python-dotenv==1.0.1
+numpy==1.26.4
+pyyaml>=6.0
